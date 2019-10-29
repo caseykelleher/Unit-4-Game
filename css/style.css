@@ -1,0 +1,36 @@
+.container {
+    text-align: center;
+}
+
+.playerWins {
+    height: 150px;
+    text-align: center;
+    width: 80%;
+    font-size: 50px;
+    margin: 40px auto;
+    border-block-style: 1px black;
+}
+
+.container {
+    font-weight: normal;
+    font-style: normal;
+    color: black;
+    font-style: bold;
+    font-size: 40px;
+}
+
+.playerLoses {
+    border: 2px black;
+    height: 150px;
+    text-align: center;
+    width: 80%;
+    font-size: 50px;
+    margin: 40px auto;
+}
+
+#crystals {
+    width: 750px;
+    height: 750px;
+    margin-left: auto;
+    margin-right: auto;
+}
